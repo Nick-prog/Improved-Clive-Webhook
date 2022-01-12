@@ -12,7 +12,7 @@
 The main purpose of this program was to utilize a webhook connection on an online form that has a high amount of traffic on a daily basis. 
 
 # About The Project
-Similar to the previous Clive-Webhook program, but removes the initial GUI to improve performance and speed. Also, shortens main code and implements an error handler for improved troubleshooting.
+Similar to the previous Clive-Webhook program, but removes the initial GUI to improve performance and speed. Also, shortens the main code and implements an error handler for improved troubleshooting.
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
